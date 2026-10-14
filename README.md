@@ -1,4 +1,4 @@
-# IMMUTABLE PRINCIPLES
+### IMMUTABLE PRINCIPLES
 I believe in source code that earns its merge with evidence, not promises. If you maintain an open-source project, we've probably already crossed paths: I read issues, reproduce the bug, write the failing test, implement the minimum that fixes it, and document the limits honestly. No smoke, no surprise refactors, no gift-wrapped technical debt.
 
 ### WHAT MAKES IT POSSIBLE?
